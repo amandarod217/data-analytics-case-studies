@@ -4,19 +4,37 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 
 ## Projects
 
-### FoodHub Data Analysis
+### 🌍 EasyVisa Approval Prediction  
+[View Full Notebook](./ARodriguez_ProjectFullCodeNB_EasyVisa.html) :contentReference[oaicite:0]{index=0}
 
-- Explored a food delivery dataset (~1,900 orders) to understand customer behavior, order patterns, and delivery performance  
-- Cleaned and analyzed data including order cost, ratings, preparation time, and delivery time  
-- Identified trends across cuisine types, order timing, and customer ratings  
-- Evaluated operational factors such as preparation and delivery times to understand efficiency  
+- Analyzed visa application data to identify factors influencing approval outcomes  
+- Performed data cleaning, preprocessing, and exploratory data analysis to uncover key trends  
+- Built and evaluated classification models to predict visa approval likelihood  
+- Compared multiple models and optimized performance using evaluation metrics  
 
 **Key Insights:**
-- Average order cost was ~$16.50, with generally high customer ratings (~4.3)  
-- Food preparation (~27 min) and delivery times (~24 min) were major contributors to total order time  
-- Variability in delivery and prep times suggests opportunities for optimization  
+- Identified key applicant and job-related features that significantly impact visa approval  
+- Highlighted patterns that differentiate approved vs. denied applications  
+- Provided actionable insights to support decision-making in visa screening processes  
 
-**Tools:** Python, Pandas, Exploratory Data Analysis
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Classification Models, EDA, Model Evaluation
+
+### 🚗 New Wheels SQL Business Analysis  
+[View Full Report](./ARodriguez_NewWheelsSQL.pdf) :contentReference[oaicite:0]{index=0}
+
+- Analyzed transactional data for a vehicle resale company using SQL to answer key business questions  
+- Queried multiple tables to evaluate customer behavior, sales performance, and operational trends  
+- Built a quarterly business report including metrics such as revenue, orders, customer distribution, and satisfaction  
+- Used SQL techniques including joins, aggregations, window functions, and case statements  
+
+**Key Insights:**
+- Customer satisfaction declined significantly over time, with average ratings dropping from ~3.55 to ~2.40 across quarters :contentReference[oaicite:1]{index=1}  
+- Orders and revenue decreased consistently throughout the year, indicating declining customer engagement :contentReference[oaicite:2]{index=2}  
+- Shipping times increased substantially, suggesting operational inefficiencies impacting customer experience :contentReference[oaicite:3]{index=3}  
+- Regional differences in customer distribution and vehicle preferences highlight opportunities for targeted strategies :contentReference[oaicite:4]{index=4}  
+
+**Tools:** SQL (Joins, Aggregations, Window Functions), Data Analysis, Business Reporting
+
 
 ### E-News Express A/B Testing Analysis
 [View Full Notebook](./ENews_Express_Full_Code_ARodriguez.html)
@@ -78,33 +96,17 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Statistical Modeling, Regression Analysis, EDA
 
-### 🌍 EasyVisa Approval Prediction  
-[View Full Notebook](./ARodriguez_ProjectFullCodeNB_EasyVisa.html) :contentReference[oaicite:0]{index=0}
 
-- Analyzed visa application data to identify factors influencing approval outcomes  
-- Performed data cleaning, preprocessing, and exploratory data analysis to uncover key trends  
-- Built and evaluated classification models to predict visa approval likelihood  
-- Compared multiple models and optimized performance using evaluation metrics  
+### FoodHub Data Analysis
 
-**Key Insights:**
-- Identified key applicant and job-related features that significantly impact visa approval  
-- Highlighted patterns that differentiate approved vs. denied applications  
-- Provided actionable insights to support decision-making in visa screening processes  
-
-**Tools:** Python, Pandas, NumPy, Scikit-learn, Classification Models, EDA, Model Evaluation
-
-### 🚗 New Wheels SQL Business Analysis  
-[View Full Report](./ARodriguez_NewWheelsSQL.pdf) :contentReference[oaicite:0]{index=0}
-
-- Analyzed transactional data for a vehicle resale company using SQL to answer key business questions  
-- Queried multiple tables to evaluate customer behavior, sales performance, and operational trends  
-- Built a quarterly business report including metrics such as revenue, orders, customer distribution, and satisfaction  
-- Used SQL techniques including joins, aggregations, window functions, and case statements  
+- Explored a food delivery dataset (~1,900 orders) to understand customer behavior, order patterns, and delivery performance  
+- Cleaned and analyzed data including order cost, ratings, preparation time, and delivery time  
+- Identified trends across cuisine types, order timing, and customer ratings  
+- Evaluated operational factors such as preparation and delivery times to understand efficiency  
 
 **Key Insights:**
-- Customer satisfaction declined significantly over time, with average ratings dropping from ~3.55 to ~2.40 across quarters :contentReference[oaicite:1]{index=1}  
-- Orders and revenue decreased consistently throughout the year, indicating declining customer engagement :contentReference[oaicite:2]{index=2}  
-- Shipping times increased substantially, suggesting operational inefficiencies impacting customer experience :contentReference[oaicite:3]{index=3}  
-- Regional differences in customer distribution and vehicle preferences highlight opportunities for targeted strategies :contentReference[oaicite:4]{index=4}  
+- Average order cost was ~$16.50, with generally high customer ratings (~4.3)  
+- Food preparation (~27 min) and delivery times (~24 min) were major contributors to total order time  
+- Variability in delivery and prep times suggests opportunities for optimization  
 
-**Tools:** SQL (Joins, Aggregations, Window Functions), Data Analysis, Business Reporting
+**Tools:** Python, Pandas, Exploratory Data Analysis
