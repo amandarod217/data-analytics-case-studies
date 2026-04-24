@@ -97,6 +97,7 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 
 
 ### FoodHub Data Analysis
+[View Full Notebook](./PFY_Project_FoodHub_FullCode_ARodriguez.html)
 
 - Explored a food delivery dataset (~1,900 orders) to understand customer behavior, order patterns, and delivery performance  
 - Cleaned and analyzed data including order cost, ratings, preparation time, and delivery time  
