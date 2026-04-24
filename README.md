@@ -5,7 +5,7 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 ## Projects
 
 ### 🌍 EasyVisa Approval Prediction  
-[View Full Notebook](./ARodriguez_ProjectFullCodeNB_EasyVisa.html) :contentReference[oaicite:0]{index=0}
+[View Full Notebook](./ARodriguez_ProjectFullCodeNB_EasyVisa.html)
 
 - Analyzed visa application data to identify factors influencing approval outcomes  
 - Performed data cleaning, preprocessing, and exploratory data analysis to uncover key trends  
@@ -20,7 +20,7 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 **Tools:** Python, Pandas, NumPy, Scikit-learn, Classification Models, EDA, Model Evaluation
 
 ### 🚗 New Wheels SQL Business Analysis  
-[View Full Report](./ARodriguez_NewWheelsSQL.pdf) :contentReference[oaicite:0]{index=0}
+[View Full Report](./ARodriguez_NewWheelsSQL.pdf)
 
 - Analyzed transactional data for a vehicle resale company using SQL to answer key business questions  
 - Queried multiple tables to evaluate customer behavior, sales performance, and operational trends  
@@ -28,13 +28,12 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 - Used SQL techniques including joins, aggregations, window functions, and case statements  
 
 **Key Insights:**
-- Customer satisfaction declined significantly over time, with average ratings dropping from ~3.55 to ~2.40 across quarters :contentReference[oaicite:1]{index=1}  
-- Orders and revenue decreased consistently throughout the year, indicating declining customer engagement :contentReference[oaicite:2]{index=2}  
-- Shipping times increased substantially, suggesting operational inefficiencies impacting customer experience :contentReference[oaicite:3]{index=3}  
-- Regional differences in customer distribution and vehicle preferences highlight opportunities for targeted strategies :contentReference[oaicite:4]{index=4}  
+- Customer satisfaction declined significantly over time, with average ratings dropping from ~3.55 to ~2.40 across quarters
+- Orders and revenue decreased consistently throughout the year, indicating declining customer engagement
+- Shipping times increased substantially, suggesting operational inefficiencies impacting customer experience
+- Regional differences in customer distribution and vehicle preferences highlight opportunities for targeted strategies
 
 **Tools:** SQL (Joins, Aggregations, Window Functions), Data Analysis, Business Reporting
-
 
 ### E-News Express A/B Testing Analysis
 [View Full Notebook](./ENews_Express_Full_Code_ARodriguez.html)
@@ -52,7 +51,7 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 **Tools:** Python, Pandas, Statistical Analysis, Hypothesis Testing
 
 ### INN Hotels Booking Cancellation Analysis  
-[View Full Notebook](./ARodriguez_Project_SLC_DSBA_INNHotels_FullCode.html) :contentReference[oaicite:0]{index=0}
+[View Full Notebook](./ARodriguez_Project_SLC_DSBA_INNHotels_FullCode.html) 
 
 - Analyzed hotel booking data to identify key factors contributing to reservation cancellations  
 - Performed exploratory data analysis to uncover patterns in customer behavior and booking trends  
@@ -67,7 +66,7 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 **Tools:** Python, Pandas, EDA, Machine Learning, Classification Models
 
 ### USL Customer Prediction Model  
-[View Full Notebook](./ARodriguez_USL_Project.html) :contentReference[oaicite:0]{index=0}
+[View Full Notebook](./ARodriguez_USL_Project.html) 
 
 - Built supervised learning models to predict customer outcomes based on behavioral and demographic features  
 - Performed data preprocessing, feature engineering, and exploratory analysis to improve model performance  
@@ -82,7 +81,7 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 **Tools:** Python, Pandas, Scikit-learn, EDA, Machine Learning, Classification Models
 
 ### 📈 SLF Predictive Modeling & Analysis  
-[View Full Notebook](./A_Rodriguez_SLF_Project_LearnerNotebook_FullCode.html) :contentReference[oaicite:0]{index=0}
+[View Full Notebook](./A_Rodriguez_SLF_Project_LearnerNotebook_FullCode.html) 
 
 - Applied statistical learning techniques to analyze relationships between variables and predict outcomes  
 - Conducted data cleaning, transformation, and exploratory analysis to prepare data for modeling  
