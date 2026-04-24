@@ -17,3 +17,18 @@ Hi, I’m Amanda — a data analyst with a background in biological anthropology
 - Variability in delivery and prep times suggests opportunities for optimization  
 
 **Tools:** Python, Pandas, Exploratory Data Analysis
+
+### E-News Express A/B Testing Analysis
+[View Full Notebook](./ENews_Express_Full_Code_ARodriguez.html)
+
+- Analyzed user engagement data for an online news platform to evaluate the impact of a new landing page design  
+- Performed statistical testing to compare user behavior between control and treatment groups  
+- Assessed metrics such as time spent on page and conversion-related actions  
+- Determined whether observed differences were statistically significant  
+
+**Key Insights:**
+- Users interacting with the new landing page showed increased engagement compared to the original design  
+- Statistical testing confirmed that differences in user behavior were significant rather than due to chance  
+- Results support implementation of the new design to improve user experience and engagement  
+
+**Tools:** Python, Pandas, Statistical Analysis, Hypothesis Testing
